@@ -1,0 +1,9 @@
+Шлях картинки: img.jpg
+Модель: qwen3.5:0.8b
+Аналіз картинки: A man on a couch holding a remote and a beer bottle while eating chips.
+
+Шлях картинки: img.jpg
+Модель: moondream:1.8b
+Аналіз картинки: urn of beer, remote control, and bowl of chips are present on a couch, with the man holding a beer bottle in his hand.
+
+
